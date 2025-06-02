@@ -17,7 +17,7 @@ This project predicts the resale price of a used car using machine learning (Ran
 
 ## 🚀 How to Run
 
-### Step 1: Clone the repository
+## Step 1: Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/car-price-prediction.git
